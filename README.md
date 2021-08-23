@@ -15,5 +15,3 @@ Todos os dados utilizados nesse trabalho são públicos e disponibilizados pelo 
 
 * Site INPE: https://queimadas.dgi.inpe.br/queimadas/bdqueimadas
 * Site INMET: https://bdmep.inmet.gov.br/
-
-#### Esse notebook contém todo o processo de data munging, data wrangling, análise exploratória e definição do modelo de machine learning.
