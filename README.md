@@ -16,4 +16,4 @@ Todos os dados utilizados nesse trabalho são públicos e disponibilizados pelo 
 * Site INPE: https://queimadas.dgi.inpe.br/queimadas/bdqueimadas
 * Site INMET: https://bdmep.inmet.gov.br/
 
-Este repositório contém todos os arquivos utilizados na construção do projeto.
+-Este repositório contém todos os arquivos utilizados na construção do projeto.-
