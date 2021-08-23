@@ -1,0 +1,1 @@
+https://geoservicos.ibge.gov.br/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=CGEO:LIM_Municipios2013&outputFormat=SHAPE-ZIP

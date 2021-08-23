@@ -1,0 +1,1 @@
+https://geoservicos.ibge.gov.br/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=CREN:lm_bioma_250&outputFormat=SHAPE-ZIP
